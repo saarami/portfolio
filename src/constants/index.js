@@ -120,51 +120,6 @@ const technologies = [
 ];
 
 const experiences = [
-    {
-    title: "Practical Engineer - Electronics & Computers",
-    company_name: "Mosenson College",
-    icon: mosenson,
-    iconBg: "#383E56",
-    date: "2016 - 2018",
-    points: [
-      "GPA: 95.",
-    ],
-  },
-  {
-    title: "Military Service",
-    company_name: "Intelligence Directorate",
-     icon: IDF,
-    iconBg: "#383E56",
-    date: "2016 - 2018",
-    points: [
-      "Served in a technological role as the operational focal point, collaborating with system developers and contributing to system specification.",
-      "Responsible for hands-on operational use, user training, and ensuring the system’s effective integration into daily operational workflows.",
-      "Recipient of the President’s Excellence Award."
-    ],
-  },
-  {
-    title: "Technical Data Projects Advisor",
-    company_name: "Military Intelligence Directorate",
-    icon: IDF,
-    iconBg: "#383E56",
-    date: "2018 - 2019",
-    points: [
-      "Supported technological projects and contributed to data-related initiatives.",
-      "Gained hands-on familiarity with Big Data tools including SQL, Hadoop, Spark, Impala, and Hive."
-
-
-    ],
-  },
-  {
-    title: "B.Sc. in Computer Science",
-    company_name: "Afeka College",
-    icon: afeka,
-    iconBg: "#383E56",
-    date: "2020 - 2024",
-    points: [
-      "GPA: 85.",
-    ],
-  },
   {
     title: "Knowledge Management Developer",
     company_name: "Military Intelligence Directorate",
@@ -177,6 +132,54 @@ const experiences = [
       "Developed reporting and automation tools using Microsoft Power Apps, Power Automate, and Power BI.",
     ],
   },
+    {
+    title: "B.Sc. in Computer Science",
+    company_name: "Afeka College",
+    icon: afeka,
+    iconBg: "#383E56",
+    date: "2020 - 2024",
+    points: [
+      "GPA: 85.",
+    ],
+  },
+    {
+    title: "Technical Data Projects Advisor",
+    company_name: "Military Intelligence Directorate",
+    icon: IDF,
+    iconBg: "#383E56",
+    date: "2018 - 2019",
+    points: [
+      "Supported technological projects and contributed to data-related initiatives.",
+      "Gained hands-on familiarity with Big Data tools including SQL, Hadoop, Spark, Impala, and Hive."
+
+
+    ],
+  },
+
+   {
+    title: "Military Service",
+    company_name: "Intelligence Directorate",
+     icon: IDF,
+    iconBg: "#383E56",
+    date: "2016 - 2018",
+    points: [
+      "Served in a technological role as the operational focal point, collaborating with system developers and contributing to system specification.",
+      "Responsible for hands-on operational use, user training, and ensuring the system’s effective integration into daily operational workflows.",
+      "Recipient of the President’s Excellence Award."
+    ],
+  },
+
+    {
+    title: "Practical Engineer - Electronics & Computers",
+    company_name: "Mosenson College",
+    icon: mosenson,
+    iconBg: "#383E56",
+    date: "2016 - 2018",
+    points: [
+      "GPA: 95.",
+    ],
+  },
+  
 ];
 
 
