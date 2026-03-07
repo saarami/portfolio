@@ -9,26 +9,27 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import redis from "./tech/redis.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
+import postgres from "./tech/postgres.png";
+import python from "./tech/python.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import fastapi from "./tech/fastapi.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import afeka from "./afeka.png";
+import IDF from "./IDF.png";
+
+import proteinLogo from "./proteinLogo.jpg";
+import bitaxe from "./bitaxe.png";
+import mosenson from "./mosenson.png";
+
+
 
 export {
   logo,
@@ -41,22 +42,20 @@ export {
   close,
   css,
   docker,
-  figma,
+  redis,
   git,
   html,
   javascript,
-  mongodb,
-  nodejs,
+  postgres,
+  python,
+  fastapi,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  afeka,
+  IDF,
+  mosenson,
+  proteinLogo,
+  bitaxe,
 };

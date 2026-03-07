@@ -7,33 +7,47 @@ import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 
-const ServiceCard = ({ index, title, icon }) => (
-  <Tilt className='xs:w-[250px] w-full'>
-    <motion.div
-      variants={fadeIn("right", "spring", index * 0.5, 0.75)}
-      className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
-    >
-      <div
-        options={{
-          max: 45,
-          scale: 1,
-          speed: 450,
-        }}
-        className='bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col'
-      >
+const ServiceCard = ({ index, title, icon }) => {
+  const isMobile = window.innerWidth < 640;
+
+  const cardContent = (
+    <div className="w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card">
+      <div className="bg-tertiary rounded-[20px] py-5 px-6 sm:px-12 min-h-[220px] sm:min-h-[280px] flex justify-evenly items-center flex-col">
         <img
           src={icon}
-          alt='web-development'
-          className='w-16 h-16 object-contain'
+          alt="web-development"
+          className="w-16 h-16 object-contain"
         />
 
-        <h3 className='text-white text-[20px] font-bold text-center'>
+        <h3 className="text-white text-[20px] font-bold text-center">
           {title}
         </h3>
       </div>
+    </div>
+  );
+
+  return (
+    <motion.div
+      variants={fadeIn("right", "spring", index * 0.5, 0.75)}
+      className="xs:w-[250px] w-full"
+    >
+      {isMobile ? (
+        cardContent
+      ) : (
+        <Tilt
+          className="w-full"
+          options={{
+            max: 25,
+            scale: 1.03,
+            speed: 300,
+          }}
+        >
+          {cardContent}
+        </Tilt>
+      )}
     </motion.div>
-  </Tilt>
-);
+  );
+};
 
 const About = () => {
   return (
@@ -47,11 +61,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a junior full-stack software developer who enjoys learning and building things. 
+        I like exploring new technologies, understanding how systems actually work behind the scenes,  
+        and turning ideas into real, working applications.
+        I'm a fast learner and enjoy going deep into technical topics, 
+        trying different approaches, and improving my skills by building real projects.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
