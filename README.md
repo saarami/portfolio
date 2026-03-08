@@ -1,27 +1,33 @@
 <div align="center">
 
-### 🌐 Developer Portfolio – Interactive Web Portfolio
-  <p>A modern interactive developer portfolio built with React and 3D web technologies.</p>
-<br>
+## 🌐 Developer Portfolio
 
-<div>
+<p>
+A modern developer portfolio built with React, Three.js, and interactive 3D web technologies.
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</div>
+</p>
 
-### 🌐 [Live Website – Visit Portfolio]  
-https://saaramikam.dev/
+<p>
+  <a href="https://saaramikam.dev">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/saarami/portfolio">
+    <img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
-
-<br>
 </div>
 
 <p align="center">
-  <img src="./public/GitImage.png" width="900">
+  <a href="https://saaramikam.dev">
+    <img src="./public/GitImage.png" width="1000" alt="Portfolio Preview" />
+  </a>
 </p>
 
 ---
