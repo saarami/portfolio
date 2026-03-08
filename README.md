@@ -13,13 +13,9 @@ A modern developer portfolio built with React, Three.js, and interactive 3D web 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://saaramikam.dev">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/saarami/portfolio">
-    <img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    🌐 Live Website
 </p>
 
 </div>
