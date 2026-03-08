@@ -1,3 +1,5 @@
+<div align="center">
+
 ### 🌐 Developer Portfolio – Interactive Web Portfolio
   <p>A modern interactive developer portfolio built with React and 3D web technologies.</p>
 <br>
@@ -8,9 +10,8 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
-
 <br>
-<br>
+</div>
 
 <p align="center">
   <img src="./public/GitImage.png" width="900">
