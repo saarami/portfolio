@@ -127,23 +127,5 @@ src/
   main.jsx
 ```
 
----
-
-# About Me
-
-I'm a junior **Full‑Stack Software Developer** who enjoys learning new technologies and building practical software systems.
-
-I like exploring how systems work behind the scenes and turning ideas into real working applications through hands‑on projects.
-
----
-
-# Contact
-
-**Saar Amikam**  
-Full‑Stack Developer  
-
-GitHub  
-https://github.com/saarami
-
 LinkedIn  
 https://linkedin.com/in/saar-amikam
