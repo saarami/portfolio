@@ -126,6 +126,3 @@ src/
   App.jsx
   main.jsx
 ```
-
-LinkedIn  
-https://linkedin.com/in/saar-amikam
