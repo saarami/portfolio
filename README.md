@@ -1,4 +1,6 @@
 ### 🌐 Developer Portfolio – Interactive Web Portfolio
+  <p>A modern interactive developer portfolio built with React and 3D web technologies.</p>
+<br>
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -8,13 +10,11 @@
 </div>
 
 <br>
-
+<br>
 
 <p align="center">
   <img src="./public/GitImage.png" width="900">
 </p>
-  <p>A modern interactive developer portfolio built with React and 3D web technologies.</p>
-
 
 ---
 
