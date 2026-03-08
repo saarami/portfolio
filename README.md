@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
 
-<br>
-
 ### 🌐 [Live Website – Visit Portfolio]  
 https://saaramikam.dev/
 
