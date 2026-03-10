@@ -175,7 +175,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "2016 - 2018",
     points: [
-      "GPA: 95.",
+      "GPA: 95",
     ],
   },
   
