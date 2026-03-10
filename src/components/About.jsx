@@ -60,11 +60,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a junior full-stack software developer who enjoys learning and building things.
-        I like exploring new technologies, understanding how systems actually work behind the scenes,
-        and turning ideas into real, working applications.
-        I'm a fast learner and enjoy going deep into technical topics,
-        trying different approaches, and improving my skills by building real projects.
+      Junior software developer with a B.Sc. 
+      in Computer Science and hands-on experience building backend systems and full-stack applications. 
+      Experienced in developing REST APIs and modern web applications. 
+      Curious about how systems work behind the scenes and focused on 
+      building real projects to deepen technical understanding and improve development skills.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

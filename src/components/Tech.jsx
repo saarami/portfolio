@@ -22,4 +22,4 @@ const Tech = () => {
   );
 };
 
-export default SectionWrapper(Tech, "experience");
+export default SectionWrapper(Tech, "projects");

@@ -28,13 +28,14 @@ export const navLinks = [
     id: "about",
     title: "About",
   },
-  {
-    id: "experience",
-    title: "Experience",
-  },
+
   {
     id: "projects",
     title: "Projects",
+  },
+    {
+    id: "experience",
+    title: "Experience",
   },
   {
     id: "contact",
@@ -127,9 +128,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "2023 - 2024",
     points: [
-      " Conducted requirements analysis for internal systems and tools.",
-      "Participated in system design and development of internal workflow solutions.",
-      "Developed reporting and automation tools using Microsoft Power Apps, Power Automate, and Power BI.",
+      "Worked with users to understand requirements for internal systems and tools",
+      "Took part in designing internal workflow solutions",
+      "Built internal workflow and reporting tools using Microsoft Power Apps, Power Automate, and Power BI",
     ],
   },
     {
@@ -139,7 +140,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "2020 - 2024",
     points: [
-      "GPA: 85.",
+      "GPA: 85",
     ],
   },
     {
@@ -149,10 +150,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "2018 - 2019",
     points: [
-      "Supported technological projects and contributed to data-related initiatives.",
-      "Gained hands-on familiarity with Big Data tools including SQL, Hadoop, Spark, Impala, and Hive."
-
-
+      "Worked on internal technology projects dealing with large volumes of data",
+      "Worked in an environment involving Big Data technologies such as Hadoop, Spark, Impala, and Hive"
     ],
   },
 
@@ -163,9 +162,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "2016 - 2018",
     points: [
-      "Served in a technological role as the operational focal point, collaborating with system developers and contributing to system specification.",
-      "Responsible for hands-on operational use, user training, and ensuring the system’s effective integration into daily operational workflows.",
-      "Recipient of the President’s Excellence Award."
+    "Served in a technological operational role, working between system users and developers",
+    "Helped define system requirements and supported the integration of the system into daily operational workflows",
+    "Trained users and assisted teams during system rollout and adoption"
     ],
   },
 
