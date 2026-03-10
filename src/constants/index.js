@@ -189,18 +189,16 @@ const projects = [
     description:
       "A smart and simple nutrition tracker that allows users to enter free-text meals and instantly receive calorie and protein insights, track daily goals, and monitor long-term progress.",
     tags: [
-      {
-        name: "FastAPI",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "redis",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
+      {name: "Python"},
+      {name: "FastAPI"},
+      {name: "REST API"},
+      {name: "PostgreSQL"},
+      {name: "Redis"},
+      {name: "JWT Authentication"},
+      {name: "Docker"},
+      {name: "AWS"},
+      {name: "Terraform"},
+
     ],
     image: proteinLogo,
     source_code_link: "https://github.com/saarami/protein-calorie-tracker-ai",
@@ -210,18 +208,14 @@ const projects = [
     description:
       "Backend system for monitoring a home Bitcoin miner (Bitaxe Gamma 601), built as a personal project that started from a hobby and evolved into a full backend system.",
     tags: [
-      {
-        name: "RestAPI",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "webhook",
-        color: "green-text-gradient",
-      },
-      {
-        name: "postgres",
-        color: "pink-text-gradient",
-      },
+      {name: "Python"},
+      {name: "FastAPI"},
+      {name: "REST API"},
+      {name: "PostgreSQL"},
+      {name: "Docker"},
+      {name: "Telemetry Monitoring"},
+      {name: "Telegram Bot"},
+     
     ],
     image: bitaxe,
     source_code_link: "https://github.com/saarami/bitaxe-monitor",
