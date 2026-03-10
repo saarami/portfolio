@@ -164,7 +164,8 @@ const experiences = [
     points: [
     "Served in a technological operational role, working between system users and developers",
     "Helped define system requirements and supported the integration of the system into daily operational workflows",
-    "Trained users and assisted teams during system rollout and adoption"
+    "Trained users and assisted teams during system rollout",
+    "Recipient of the President Excellence Award"
     ],
   },
 
