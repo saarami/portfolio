@@ -2563,257 +2563,257 @@
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_0_baseColor",
-			"uri":"Material.074_0_baseColor.png"
+			"uri":"textures/Material.074_0_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material_baseColor",
-			"uri":"Material_baseColor.jpg"
+			"uri":"textures/Material_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material_metallicRoughness",
-			"uri":"Material_metallicRoughness.png"
+			"uri":"textures/textures/Material_metallicRoughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_baseColor",
-			"uri":"Material.074_baseColor.png"
+			"uri":"textures/textures/Material.074_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_1_baseColor",
-			"uri":"Material.074_1_baseColor.jpg"
+			"uri":"textures/Material.074_1_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_2_baseColor",
-			"uri":"Material.074_2_baseColor.jpg"
+			"uri":"textures/Material.074_2_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_3_baseColor",
-			"uri":"Material.074_3_baseColor.png"
+			"uri":"textures/Material.074_3_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_4_emissive",
-			"uri":"Material.074_4_emissive.png"
+			"uri":"textures/Material.074_4_emissive.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_4_baseColor",
-			"uri":"Material.074_4_baseColor.png"
+			"uri":"textures/Material.074_4_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.023_baseColor",
-			"uri":"Material.023_baseColor.jpg"
+			"uri":"textures/Material.023_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.024_baseColor",
-			"uri":"Material.024_baseColor.jpg"
+			"uri":"textures/Material.024_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_5_baseColor",
-			"uri":"Material.074_5_baseColor.png"
+			"uri":"textures/Material.074_5_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_6_baseColor",
-			"uri":"Material.074_6_baseColor.png"
+			"uri":"textures/Material.074_6_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_7_baseColor",
-			"uri":"Material.074_7_baseColor.png"
+			"uri":"textures/Material.074_7_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_8_baseColor",
-			"uri":"Material.074_8_baseColor.png"
+			"uri":"textures/Material.074_8_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_9_emissive",
-			"uri":"Material.074_9_emissive.png"
+			"uri":"textures/Material.074_9_emissive.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_9_baseColor",
-			"uri":"Material.074_9_baseColor.png"
+			"uri":"textures/Material.074_9_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_10_baseColor",
-			"uri":"Material.074_10_baseColor.jpg"
+			"uri":"textures/Material.074_10_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_11_baseColor",
-			"uri":"Material.074_11_baseColor.png"
+			"uri":"textures/Material.074_11_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_12_baseColor",
-			"uri":"Material.074_12_baseColor.jpg"
+			"uri":"textures/Material.074_12_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_13_baseColor",
-			"uri":"Material.074_13_baseColor.png"
+			"uri":"textures/Material.074_13_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_14_baseColor",
-			"uri":"Material.074_14_baseColor.png"
+			"uri":"textures/Material.074_14_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_15_baseColor",
-			"uri":"Material.074_15_baseColor.png"
+			"uri":"textures/Material.074_15_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_16_baseColor",
-			"uri":"Material.074_16_baseColor.png"
+			"uri":"textures/Material.074_16_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_17_baseColor",
-			"uri":"Material.074_17_baseColor.png"
+			"uri":"textures/Material.074_17_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_18_emissive",
-			"uri":"Material.074_18_emissive.png"
+			"uri":"textures/Material.074_18_emissive.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_18_baseColor",
-			"uri":"Material.074_18_baseColor.png"
+			"uri":"textures/Material.074_18_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_19_baseColor",
-			"uri":"Material.074_19_baseColor.png"
+			"uri":"textures/Material.074_19_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_20_baseColor",
-			"uri":"Material.074_20_baseColor.png"
+			"uri":"textures/Material.074_20_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_21_baseColor",
-			"uri":"Material.074_21_baseColor.png"
+			"uri":"textures/Material.074_21_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_22_baseColor",
-			"uri":"Material.074_22_baseColor.png"
+			"uri":"textures/Material.074_22_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_23_baseColor",
-			"uri":"Material.074_23_baseColor.png"
+			"uri":"textures/Material.074_23_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_24_emissive",
-			"uri":"Material.074_24_emissive.png"
+			"uri":"textures/Material.074_24_emissive.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_24_baseColor",
-			"uri":"Material.074_24_baseColor.png"
+			"uri":"textures/Material.074_24_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_25_baseColor",
-			"uri":"Material.074_25_baseColor.jpg"
+			"uri":"textures/Material.074_25_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_26_baseColor",
-			"uri":"Material.074_26_baseColor.png"
+			"uri":"textures/Material.074_26_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_27_emissive",
-			"uri":"Material.074_27_emissive.png"
+			"uri":"textures/Material.074_27_emissive.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_27_baseColor",
-			"uri":"Material.074_27_baseColor.png"
+			"uri":"textures/Material.074_27_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_28_baseColor",
-			"uri":"Material.074_28_baseColor.png"
+			"uri":"textures/Material.074_28_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_29_baseColor",
-			"uri":"Material.074_29_baseColor.png"
+			"uri":"textures/Material.074_29_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_30_baseColor",
-			"uri":"Material.074_30_baseColor.png"
+			"uri":"textures/Material.074_30_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_31_baseColor",
-			"uri":"Material.074_31_baseColor.png"
+			"uri":"textures/Material.074_31_baseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.002_baseColor",
-			"uri":"Material.002_baseColor.png"
+			"uri":"textures/Material.002_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_32_baseColor",
-			"uri":"Material.074_32_baseColor.jpg"
+			"uri":"textures/Material.074_32_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Tasten_2_baseColor",
-			"uri":"Tasten_2_baseColor.jpg"
+			"uri":"textures/Tasten_2_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_33_baseColor",
-			"uri":"Material.074_33_baseColor.png"
+			"uri":"textures/Material.074_33_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_34_baseColor",
-			"uri":"Material.074_34_baseColor.jpg"
+			"uri":"textures/Material.074_34_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_35_baseColor",
-			"uri":"Material.074_35_baseColor.png"
+			"uri":"textures/Material.074_35_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_36_baseColor",
-			"uri":"Material.074_36_baseColor.jpg"
+			"uri":"textures/Material.074_36_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Material.074_39_baseColor",
-			"uri":"Material.074_39_baseColor.jpg"
+			"uri":"textures/Material.074_39_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_40_baseColor",
-			"uri":"Material.074_40_baseColor.png"
+			"uri":"textures/Material.074_40_baseColor.png"
 		}
 	],
 	"accessors":[
@@ -9611,7 +9611,7 @@
 	"buffers":[
 		{
 			"byteLength":6330748,
-			"uri":"scene.bin"
+			"uri":"textures/scene.bin"
 		}
 	]
 }
