@@ -2573,12 +2573,12 @@
 		{
 			"mimeType":"image/png",
 			"name":"Material_metallicRoughness",
-			"uri":"textures/textures/Material_metallicRoughness.png"
+			"uri":"textures/Material_metallicRoughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Material.074_baseColor",
-			"uri":"textures/textures/Material.074_baseColor.png"
+			"uri":"textures/Material.074_baseColor.png"
 		},
 		{
 			"mimeType":"image/jpeg",
@@ -9611,7 +9611,7 @@
 	"buffers":[
 		{
 			"byteLength":6330748,
-			"uri":"textures/scene.bin"
+			"uri":"scene.bin"
 		}
 	]
 }
