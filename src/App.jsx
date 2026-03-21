@@ -1,8 +1,11 @@
 import { BrowserRouter } from "react-router-dom";
 import { Analytics } from "@vercel/analytics/react"
+import useIsAndroid from "./hooks/useIsAndroid";
 import { About, Contact, Experience, Hero, Navbar, Tech, Projects, StarsCanvas } from "./components";
 
 const App = () => {
+  const isAndroid = useIsAndroid();
+
   return (
     <BrowserRouter>
       <div className='relative z-0 bg-primary'>
@@ -11,20 +14,18 @@ const App = () => {
           <Hero />
         </div>
         <About />
- 
-   
         <Projects />
-        <Tech />
+        {!isAndroid  && <Tech />}
         <Experience />
         <div className='relative z-0'>
           <Contact />
-            <StarsCanvas />
+          <StarsCanvas />
         </div>
       </div>
       <Analytics />
-
     </BrowserRouter>
   );
-}
+};
+
 
 export default App;
