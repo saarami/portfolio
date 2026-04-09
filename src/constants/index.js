@@ -122,15 +122,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Knowledge Management Developer",
+    title: "Application Developer",
     company_name: "Military Intelligence Directorate",
     icon: IDF,
     iconBg: "#383E56",
     date: "2023 - 2024",
     points: [
-      "Worked with users to understand requirements for internal systems and tools",
-      "Took part in designing internal workflow solutions",
-      "Built internal workflow and reporting tools using Microsoft Power Apps, Power Automate, and Power BI",
+      "Took part in a large-scale military construction project",
+      "Worked as part of a development team building an internal web application for data input, analysis, and reporting",
+      "Designed to support tracking of project progress and milestones",
     ],
   },
     {
@@ -144,7 +144,7 @@ const experiences = [
     ],
   },
     {
-    title: "Technical Data Projects Advisor",
+    title: "Data Engineer",
     company_name: "Military Intelligence Directorate",
     icon: IDF,
     iconBg: "#383E56",
@@ -163,8 +163,7 @@ const experiences = [
     date: "2016 - 2018",
     points: [
     "Served in a technological operational role, working between system users and developers",
-    "Helped define system requirements and supported the integration of the system into daily operational workflows",
-    "Trained users and assisted teams during system rollout",
+    "Helped define requirements for a classified intelligence system and integrate it into daily workflows",
     "Recipient of the President Excellence Award"
     ],
   },
